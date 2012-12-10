@@ -52,3 +52,10 @@ This version is patched with shntool patch.
 %doc README COPYING
 %{_bindir}/*
 
+
+
+%changelog
+* Sun Sep 18 2011 Andrey Bondrov <abondrov@mandriva.org> 0.6-1
++ Revision: 700196
+- imported package bonk
+
