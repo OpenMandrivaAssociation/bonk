@@ -1,6 +1,6 @@
 Name:			bonk
 Version:		0.6
-Release:		%mkrel 1
+Release:		2
 Summary:		A lossy and lossless audio coder
 License:		GPLv2
 Group:			Sound
