@@ -4,7 +4,7 @@ Release:		2
 Summary:		A lossy and lossless audio coder
 License:		GPLv2
 Group:			Sound
-URL:			http://www.logarithmic.net/pfh/bonk/
+URL:			https://www.logarithmic.net/pfh/bonk/
 Source:			http://etree.org/shnutils/shntool/support/formats/bonk/win32/%{version}/%{name}-%{version}-shntool.tar.gz
 Patch1:			%{name}-gcc4.patch
 BuildRoot:		%{_tmppath}/%{name}-%{version}-build
