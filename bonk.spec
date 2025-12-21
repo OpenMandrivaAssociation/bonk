@@ -9,6 +9,7 @@ Source:			http://etree.org/shnutils/shntool/support/formats/bonk/win32/%{version
 Patch1:			%{name}-gcc4.patch
 BuildRoot:		%{_tmppath}/%{name}-%{version}-build
 
+BuildRequires:	make
 %description
 Bonk is high quality audio compression program. It can operate
 in either lossless or lossy mode. In lossless mode, the exact
